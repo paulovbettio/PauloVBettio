@@ -1,7 +1,7 @@
 [![Blokoto](/blokoto-banner.png)](https://blokoto.com)
 
-Olá! Sou o Paulo, sou matogrossense e desenvolvo jogos e sistemas há mais de 7 anos. Participei de vários projetos e também fundei e mantenho o Blokoto, um GCS e sua plataforma online de compartilhamento de jogos.
+Hi! I'm Paulo, from Mato Grosso, and I've been developing games and systems for over 7 years. I've participated in several projects and also founded and maintain Blokoto: an online [GCS](https://en.wikipedia.org/wiki/Game_creation_system) with its own game-sharing platform.
 
-Mais especificamente, eu sou desenvolvedor de software com experiência em .NET, C# e ASP.NET Core (backend), Typescript e SvelteKit (frontend), PostgreSQL (banco de dados), Entity Framework, desenvolvimento contínuo, cloud, deployment, versionamento Git, desenvolvimento de jogos e Linux avançado.
+More specifically, I'm a software developer with experience in .NET, C# and ASP.NET Core (backend), Typescript and SvelteKit (frontend), PostgreSQL (database), game development, and advanced Linux.
 
-Saiba mais sobre mim em: https://paulovbettio.moonaut.com/
+Learn more about me at: https://paulovbettio.moonaut.com/ (🇧🇷)
